@@ -1,0 +1,70 @@
+name: "Rare Earth Embargo"
+description: >
+  China imposes a total export ban on 17 critical rare earth elements in
+  response to escalating trade tensions, crippling semiconductor manufacturing,
+  EV production, and defense supply chains overnight.
+
+system_context: >
+  You are one of three members of an emergency economic policy committee with
+  equal authority, convened at the White House to respond to China's rare earth
+  embargo. Situation reports will be delivered to the room periodically. Between
+  reports, you must discuss with your colleagues — propose concrete actions,
+  challenge each other's reasoning, build on good ideas, and push back on bad
+  ones. Commit to positions.
+
+  You cannot request more information from the briefers. Work with what you have.
+
+  Important: after each situation report, you have exactly 3 rounds of discussion
+  before the situation evolves. If you haven't reached a decision by then, events
+  will overtake you. Be decisive.
+
+turns:
+  - title: "The Announcement"
+    briefing: >
+      SITUATION REPORT: China's Ministry of Commerce has announced an immediate
+      embargo on all rare earth element exports, citing "national security
+      concerns." This covers 17 elements critical to semiconductors, EV
+      batteries, wind turbines, and military hardware. China currently controls
+      ~70% of global rare earth mining and ~90% of processing. Spot prices for
+      neodymium and dysprosium have tripled within hours.
+
+  - title: "Production Lines Stop"
+    briefing: >
+      SITUATION REPORT: Two weeks in. TSMC warns it has 45 days of rare earth
+      inventory. Ford and GM have halted EV production lines. Apple is delaying
+      its next iPhone launch. The F-35 program cannot produce new units without
+      dysprosium for permanent magnets. Semiconductor stocks are down 25%.
+      50,000 manufacturing workers face temporary layoffs. Wind turbine
+      manufacturing has halted — renewable energy targets are now impossible to
+      meet. Medical device companies warn of MRI machine supply shortages.
+
+  - title: "Retaliate, Negotiate, or Absorb"
+    briefing: >
+      SITUATION REPORT: Hawks push for immediate counter-sanctions — restrict
+      China's access to AI chips, cloud services, agricultural exports. State
+      Department warns this risks further escalation. Rare earth miners in
+      Australia, Canada, and Brazil say they can ramp up but need 2-3 years and
+      massive capital investment. Japan offers to share its strategic reserve but
+      it covers only ~8 weeks of US demand. Small towns in the Midwest built
+      around auto parts suppliers are seeing mass layoffs. A parts factory in
+      Ohio that employs 2,000 people has announced closure.
+
+  - title: "The Deal on the Table"
+    briefing: >
+      SITUATION REPORT: China signals it might ease restrictions in exchange for:
+      (a) US withdrawal of support for Taiwan's semiconductor independence,
+      (b) lifting sanctions on Chinese tech companies, (c) dropping tariffs on
+      Chinese EVs. Allies are divided — Japan and South Korea want to negotiate,
+      Australia wants to hold the line. Consumer electronics prices are up 40%.
+      The Ohio factory has closed. Black market rare earth supply chains have
+      emerged at 10x normal prices.
+
+  - title: "Endgame"
+    briefing: >
+      SITUATION REPORT: Six months in. Two US-based rare earth mines are fast-
+      tracking reopening but face environmental protests — locals near one site
+      in California oppose toxic processing waste. A startup claims it can
+      substitute rare earths in magnets but needs $2B and 18 months. Recycling
+      operations cover <5% of demand. Defense readiness is degraded. The acute
+      pain continues. This is the final decision point — what is the strategy,
+      and what are you willing to sacrifice?

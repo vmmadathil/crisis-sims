@@ -1,0 +1,62 @@
+name: "Sovereign Debt Domino"
+description: >
+  Five EU nations simultaneously breach debt sustainability thresholds,
+  triggering a cascading bond market crisis that threatens the euro's survival.
+
+system_context: >
+  You are one of three members of an emergency economic policy committee with
+  equal authority, convened to handle a sovereign debt crisis in Europe. Situation
+  reports will be delivered to the room periodically. Between reports, you must
+  discuss with your colleagues — propose concrete actions, challenge each other's
+  reasoning, build on good ideas, and push back on bad ones. Commit to positions.
+
+  You cannot request more information from the briefers. Work with what you have.
+
+  Important: after each situation report, you have exactly 3 rounds of discussion
+  before the situation evolves. If you haven't reached a decision by then, events
+  will overtake you. Be decisive.
+
+turns:
+  - title: "The Cracks Show"
+    briefing: >
+      SITUATION REPORT: Italy and Greece both fail sovereign bond auctions on the
+      same day. Yields spike to 9% and 12% respectively. Credit rating agencies
+      place both on review for downgrade. Markets are nervous but not panicking
+      yet. EU finance ministers have called an emergency meeting.
+
+  - title: "Contagion"
+    briefing: >
+      SITUATION REPORT: Spain, Portugal, and Ireland see bond yields jump 300bps
+      in sympathy selling. The spread between German bunds and peripheral debt
+      is at 2012 crisis levels. Hedge funds are openly shorting the euro. Capital
+      flight from Southern European banks is accelerating — depositors are moving
+      savings to German and Dutch banks.
+
+  - title: "The ECB Dilemma"
+    briefing: >
+      SITUATION REPORT: The ECB is weighing emergency bond purchases. Germany and
+      the Netherlands publicly oppose it — their finance ministers call it
+      "rewarding fiscal irresponsibility." Italy's government warns that austerity
+      conditions would be "political suicide" and could trigger their exit from
+      the eurozone. Proposed bailout conditions include cutting public healthcare
+      spending by 15%, raising retirement age to 70, and freezing public sector
+      wages for 5 years. Unemployment in affected nations is already at 18-25%
+      for under-30s.
+
+  - title: "Political Fracture"
+    briefing: >
+      SITUATION REPORT: Protests erupt in Rome, Athens, Madrid. A pensioner in
+      Athens collapses during a protest and becomes a viral symbol. Italy's deputy
+      PM floats a "parallel currency" plan. Le Pen's successor in France uses the
+      crisis to campaign on Frexit. Germany's coalition government faces internal
+      revolt. Poland and Hungary use the chaos to resist unrelated EU mandates.
+      The crisis is becoming an existential question about the EU project itself.
+
+  - title: "Lehman Moment"
+    briefing: >
+      SITUATION REPORT: A major French bank discloses significant exposure to
+      Italian sovereign debt. Its stock drops 30% in a day. Interbank lending
+      freezes. The ECB has 48 hours before a systemic banking collapse. China and
+      the US both offer "assistance" with geopolitical strings attached. The IMF
+      proposes a program but with harsh conditionality. This is the final
+      decision point — what is the plan, and who bears the cost?

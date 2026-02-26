@@ -1,0 +1,90 @@
+name: "The Slow Displacement"
+description: >
+  Not a sudden shock but a slow structural squeeze. Companies across white-collar
+  industries are systematically replacing experienced 40-55 year old workers with
+  cheaper 25-35 year olds, while simultaneously shrinking entry-level pipelines.
+  No single dramatic event — just a grinding, accumulating crisis of
+  purposelessness, financial anxiety, and broken career ladders.
+
+system_context: >
+  You are one of three members of an emergency economic policy committee with
+  equal authority, convened at the White House after alarming labor market data.
+  Situation reports will be delivered to the room periodically. Between reports,
+  you must discuss with your colleagues — propose concrete actions, challenge
+  each other's reasoning, build on good ideas, and push back on bad ones.
+  Commit to positions.
+
+  You cannot request more information from the briefers. Work with what you have.
+
+  Important: after each situation report, you have exactly 3 rounds of discussion
+  before the situation evolves. If you haven't reached a decision by then, events
+  will overtake you. Be decisive.
+
+turns:
+  - title: "The Pattern Emerges"
+    briefing: >
+      SITUATION REPORT: Bureau of Labor Statistics data shows that over the past
+      18 months, net employment among 40-55 year olds in white-collar roles
+      (marketing, finance, project management, HR, mid-level engineering) has
+      declined 12%. Employment of 25-35 year olds in similar roles is up 4% —
+      but at salaries 30-40% lower. Companies report "no change in
+      productivity." Entry-level job postings requiring <2 years experience are
+      down 35% across professional services. The cause is a combination of AI
+      tooling, offshoring, and organizational flattening. The economy is
+      technically growing. Markets are fine. But something is structurally
+      breaking.
+
+  - title: "The Human Cost"
+    briefing: >
+      SITUATION REPORT: A 43-year-old product marketing director — 15 years
+      experience, consistently strong reviews — was laid off in a
+      "restructuring." Her role was filled by a 31-year-old at $60K less who
+      uses AI tools she was never trained on. She's been job hunting for 7
+      months. Meanwhile, a 24-year-old finance graduate is working as a barista
+      — the analyst roles that used to absorb new grads have been compressed.
+      "They want 3 years of experience for entry-level jobs that no longer
+      exist." 62% of 45-55 year old professionals report "significant anxiety"
+      about job security. Gen Z career optimism is at a historic low.
+
+  - title: "The Reskilling Mirage"
+    briefing: >
+      SITUATION REPORT: Government and private sector reskilling initiatives
+      launched 6 months ago are failing. Completion rates: 23%. Of completers,
+      only 18% land roles in their new field. The 43-year-old marketing director
+      completed a data analytics certificate — she's told she's "overqualified"
+      for junior roles and "underqualified" for senior ones. Cost to
+      individuals: $8,000-$15,000. Critics call it "reskilling theater."
+      Meanwhile, mortgage delinquencies among 40-55 year olds are up 40%.
+      Antidepressant prescriptions for professionals 40-55 are up 35%. Three
+      suicides among laid-off tech workers over 45 made local news. Companies
+      that laid off experienced workers are posting record profits and buying
+      back stock.
+
+  - title: "The Cliff"
+    briefing: >
+      SITUATION REPORT: The slow crisis just became a fast one. Consumer
+      confidence index dropped the most in a single month since 2008. Retail
+      spending cratered — worst monthly decline in 14 years. The S&P fell 8% in
+      a week as markets repriced the structural damage. Suburban housing markets
+      in 15 metro areas are softening rapidly. The fear is now priced in.
+
+      A bipartisan Senate hearing was convened within days. The 43-year-old
+      marketing director testified. A tech CEO testified that "the market is
+      functioning as intended." The generational framing is turning toxic —
+      "they can't adapt" vs. "we built what you're profiting from." A
+      28-year-old team lead managing people who used to be directors described
+      the psychological weight. Employee trust scores have hit record lows. The
+      top 10% of earners in every generation are doing fine — this is a class
+      crisis wearing a generational mask. Markets are watching for a policy
+      response. You no longer have the luxury of studying this.
+
+  - title: "What Now?"
+    briefing: >
+      SITUATION REPORT: Two years in. The trend is clearly not temporary. The
+      old career model — study, enter, climb, retire — is breaking. Retraining
+      is insufficient. Consumer spending in suburban areas has dropped
+      measurably. "Career nihilism" is mainstream among 22-28 year olds. Gig
+      work is reframed as freedom but median income is $34K. The social contract
+      between employer and employee has quietly dissolved. This is the final
+      decision point — what is the structural policy response, and who pays
+      for it?
